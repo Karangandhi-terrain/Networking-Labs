@@ -15,7 +15,7 @@ This project demonstrates core networking concepts and production-ready configur
 ## Network Topology
 Here is the logical layout of the network I built. It consists of a core Cisco ISR4331 router, two access switches, and several PCs separated into two different subnets.
 
-![Network Topology](Lab 1 Basic Routing.png)
+![Network Topology](Lab%201%20Basic%20Routing.png)
 
 ## IP Addressing Table
 Below is the reference guide for the network addressing used in this lab.

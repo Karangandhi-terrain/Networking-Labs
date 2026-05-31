@@ -14,7 +14,7 @@ This project demonstrates Layer 2 segmentation and how to securely pass traffic 
 ## Network Topology
 Here is the layout of the network I built. It consists of a core router connected to a single access switch via a trunk link, serving PCs in two different departments.
 
-![Network Topology](Lab%202%20Topology)
+![Network Topology](Lab%202%20Topology.png)
 
 ## IP Addressing and VLAN Table
 Below is the reference guide for the network addressing and VLAN assignments used in this lab.
